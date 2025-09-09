@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProyectoDsp/1.0.0": {
+        "runtime": {
+          "ProyectoDsp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoDsp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoDsp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfe2843cf0b0754f3964a34ee41501799267ce4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoDsp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoDsp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
